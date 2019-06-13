@@ -27,6 +27,7 @@ rasberian 2018-11-26-rpd-x86-stretch
 1. sudo pip3 install h5py
 1. sudo pip3 install matplotlib
 1. sudo pip3 install rx
+1. sudo pip3.5 install adafruit-ads1x15
 
 ## Other
 Sensors/get
