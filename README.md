@@ -42,6 +42,10 @@ Pressure
 Pressure applied
 Engine on
 
+#motor disable at boot
+sudo nano /etc/rc.local
+python3 /home/pi/tribometer/Motor_start.py
+
 Current project settings
 	T,Ffr,P,AE, sensor calibration constants
 
