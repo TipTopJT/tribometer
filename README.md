@@ -31,6 +31,7 @@ rasberian 2018-11-26-rpd-x86-stretch
 1.sudo pip3.5 install smbus
 1.sudo pip3.5 install smbus2
 
+
 ## Other
 Sensors/get
 Time
